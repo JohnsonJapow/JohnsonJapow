@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, React**
 
-- 📫 How to reach me **j7777602@gmail.com**
+- 📫 How to reach me **yuehmingteng@gmail.com**
 
 - ⚡ Fun fact **I like to code in the midnight**
 
