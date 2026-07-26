@@ -1,9 +1,7 @@
 [![MasterHead](https://mymodernmet.com/wp/wp-content/uploads/2014/02/3d-gif-4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm YuehMing,Teng</h1>
-<h3 align="center">A passionate developer from Taiwan</h3>
+<h3 align="center">A ski lover and AI judge.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsonjapow&label=Profile%20views&color=0e75b6&style=flat" alt="johnsonjapow" /> </p>
-
-- 🌱 I’m currently learning **Spring & React**
 
 - 💬 Ask me about **Java, React**
 
