@@ -3,7 +3,7 @@
 <h3 align="center">A ski lover and AI judge.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsonjapow&label=Profile%20views&color=0e75b6&style=flat" alt="johnsonjapow" /> </p>
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, React, Python**
 
 - 📫 How to reach me **yuehmingteng@gmail.com**
 
